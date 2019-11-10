@@ -1,0 +1,182 @@
+Report for Institution Code UTEP, Resource utep_herp_osteo
+Usage stats for September 2019, generated on 2019/11/10
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 166
+Number of records retrieved in searches: 731
+Number of different countries where searches have been originated: 5
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 151
+	Country: Thailand ; Times: 1
+	Country: Argentina ; Times: 1
+	Country: Brazil ; Times: 9
+	Country: Mexico ; Times: 4
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-09-14 ; Times: 1
+	Date: 2019-09-15 ; Times: 1
+	Date: 2019-09-30 ; Times: 14
+	Date: 2019-09-17 ; Times: 3
+	Date: 2019-09-10 ; Times: 1
+	Date: 2019-09-11 ; Times: 5
+	Date: 2019-09-12 ; Times: 7
+	Date: 2019-09-13 ; Times: 1
+	Date: 2019-09-18 ; Times: 7
+	Date: 2019-09-19 ; Times: 5
+	Date: 2019-09-09 ; Times: 15
+	Date: 2019-09-03 ; Times: 3
+	Date: 2019-09-01 ; Times: 2
+	Date: 2019-09-06 ; Times: 51
+	Date: 2019-09-05 ; Times: 1
+	Date: 2019-09-04 ; Times: 22
+	Date: 2019-09-21 ; Times: 1
+	Date: 2019-09-20 ; Times: 3
+	Date: 2019-09-23 ; Times: 1
+	Date: 2019-09-22 ; Times: 1
+	Date: 2019-09-25 ; Times: 12
+	Date: 2019-09-27 ; Times: 3
+	Date: 2019-09-26 ; Times: 1
+	Date: 2019-09-29 ; Times: 5
+
+List of queries that retrieved data from the resource: 
+	Query: "institutioncode:UTEP AND Masticophis" ; Times: 1
+	Query: "(Pantherophis OR Elaphe) (gutattus OR slowinskii OR emoryi) hastissue:1" ; Times: 2
+	Query: "Crotalus Willardi" ; Times: 10
+	Query: "Crocodylus niloticus" ; Times: 1
+	Query: "snakes" ; Times: 1
+	Query: "Lampropeltis (calligaster OR rhombomaculata) hastissue:1" ; Times: 1
+	Query: "Kinosternon scorpioides scorpioides" ; Times: 1
+	Query: "Crotalus lepidus" ; Times: 1
+	Query: "Anaxyrus punctatus specificepithet:punctatus genus:Anaxyrus stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "specificepithet:flagellum genus:Masticophis county:&#34;Los Angeles&#34; stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "specificepithet:trivirgata genus:Lichanura class:Reptilia county:&#34;San Diego&#34; stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "Agkistrodon bilineatus" ; Times: 4
+	Query: "genus:Pituophis stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "Eunectes murinus mappable:1" ; Times: 1
+	Query: "speciosus specificepithet:speciosus family:bufonidae stateprovince:&#34;Texas&#34; year &gt;= 1970 year &lt;= 1979" ; Times: 1
+	Query: "specificepithet:constrictor genus:Boa stateprovince:&#34;Sonora&#34; country:&#34;Mexico&#34;" ; Times: 1
+	Query: "Kinosternon scorpioides" ; Times: 1
+	Query: "institutioncode:UTEP AND Malaysia" ; Times: 1
+	Query: "Epicrates cenchria mappable:1" ; Times: 1
+	Query: "Anaxyrus speciosus specificepithet:speciosus genus:Anaxyrus stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "specificepithet:emoryi genus:Pantherophis stateprovince:&#34;Kansas&#34;" ; Times: 1
+	Query: "punctatus specificepithet:punctatus family:bufonidae stateprovince:&#34;Texas&#34; year &gt;= 1960 year &lt;= 1969" ; Times: 1
+	Query: "deirochelys (texas)" ; Times: 1
+	Query: "(Pantherophis OR Elaphe) (guttatus OR guttata OR slowinskii OR emoryi) hastissue:1" ; Times: 2
+	Query: "Masticophis flagellum hastissue:1" ; Times: 2
+	Query: "nerodia harteri" ; Times: 1
+	Query: "lampropeltis pyromelana" ; Times: 20
+	Query: "family:bufonidae stateprovince:&#34;Texas&#34; (nebulifer OR valliceps) year &gt;= 1960 year &lt;= 1969" ; Times: 1
+	Query: "Crotalus polystictus" ; Times: 2
+	Query: "institutioncode:UTEP" ; Times: 2
+	Query: "Ambystoma tigrinum" ; Times: 22
+	Query: "Epicrates cenchria cenchria mappable:1" ; Times: 1
+	Query: "woodhousii specificepithet:woodhousii family:bufonidae stateprovince:&#34;Texas&#34; year &gt;= 1980 year &lt;= 1989" ; Times: 1
+	Query: "punctatus specificepithet:punctatus family:bufonidae stateprovince:&#34;Texas&#34; year &gt;= 1970 year &lt;= 1979" ; Times: 1
+	Query: "specificepithet:obsoletus genus:Pantherophis stateprovince:&#34;North Carolina&#34;" ; Times: 1
+	Query: "genus:Crotalus institutioncode:UTEP" ; Times: 1
+	Query: "Sibon nebulata mappable:1" ; Times: 1
+	Query: "woodhousii specificepithet:woodhousii family:bufonidae stateprovince:&#34;Texas&#34; year &gt;= 1960 year &lt;= 1969" ; Times: 1
+	Query: "Reptilia Missouri" ; Times: 1
+	Query: "Salvadora grahamiae" ; Times: 1
+	Query: "Drymarchon corais" ; Times: 20
+	Query: "genus:Chionactis county:&#34;Imperial&#34; stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "specificepithet:suspectum genus:heloderma country:&#34;united states&#34;" ; Times: 2
+	Query: "(Pantherophis OR Elaphe) (gutattus OR gutatta OR slowinskii OR emoryi) hastissue:1" ; Times: 1
+	Query: "genus:heloderma" ; Times: 2
+	Query: "specificepithet:mitchellii genus:Crotalus county:&#34;Riverside&#34; stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "specificepithet:emoryi genus:pantherophis stateprovince:&#34;Arkansas&#34;" ; Times: 1
+	Query: "genus:Pituophis stateprovince:&#34;New Mexico&#34;" ; Times: 1
+	Query: "Crotalus willardi" ; Times: 11
+	Query: "genus:Sonora Texas" ; Times: 2
+	Query: "genus:Sistrurus stateprovince:&#34;texas&#34;" ; Times: 1
+	Query: "Texas genus:Sonora" ; Times: 3
+	Query: "gorzugi" ; Times: 1
+	Query: "Heterodon nasicus" ; Times: 1
+	Query: "specificepithet:emoryi genus:pantherophis stateprovince:&#34;Arkansas&#34; institutioncode:UTEP" ; Times: 1
+	Query: "heterodon mexico" ; Times: 1
+	Query: "Boa constrictor mappable:1" ; Times: 1
+	Query: "genus:Trimorphodon stateprovince:&#34;Arizona&#34;" ; Times: 1
+	Query: "Pantherophis (gutattus OR slowinski OR emoryi) hastissue:1" ; Times: 1
+	Query: "Molossus molossus haslength:1" ; Times: 1
+	Query: "Crotalus lepidus lepidus" ; Times: 1
+	Query: "family:bufonidae stateprovince:&#34;Texas&#34; (nebulifer OR valliceps) year &gt;= 1970 year &lt;= 1979" ; Times: 1
+	Query: "Lampropeltis calligaster hastissue:1" ; Times: 1
+	Query: "Eunectes murinus murinus mappable:1" ; Times: 1
+	Query: "Pantherophis emoryi" ; Times: 1
+	Query: "Pantherophis AND (guttatus OR guttata OR emoryi OR slowinskii) hastissue:1" ; Times: 1
+	Query: "genus:Boa stateprovince:&#34;Sonora&#34; country:&#34;Mexico&#34;" ; Times: 1
+	Query: "Pantherophis (gutattus OR slowinskii OR emoryi) hastissue:1" ; Times: 1
+	Query: "Incilius nebulifer specificepithet:nebulifer genus:Incilius stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "Anaxyrus woodhousii specificepithet:woodhousii genus:Anaxyrus stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "Anaxyrus woodhousii Texas" ; Times: 1
+	Query: "specificepithet:abacura genus:Farancia hastissue:1" ; Times: 1
+	Query: "Texas Anaxyrus woodhousii" ; Times: 1
+	Query: "genus:Micrurus country:&#34;México&#34;" ; Times: 1
+	Query: "gbifdatasetid:beddb937-47b8-48f6-8efb-e347383aa9b5" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 32 (out of 1073 download events in this period)
+Total number of records downloaded: 133
+Number of different countries: 5
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 23
+	Country: Brazil ; Times: 1
+	Country: Mexico ; Times: 6
+	Country: Unknown ; Times: 1
+	Country: Japan ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-09-20 ; Times: 1
+	Date: 2019-09-23 ; Times: 2
+	Date: 2019-09-17 ; Times: 1
+	Date: 2019-09-11 ; Times: 2
+	Date: 2019-09-12 ; Times: 1
+	Date: 2019-09-13 ; Times: 1
+	Date: 2019-09-29 ; Times: 3
+	Date: 2019-09-26 ; Times: 2
+	Date: 2019-09-18 ; Times: 5
+	Date: 2019-09-19 ; Times: 2
+	Date: 2019-09-30 ; Times: 6
+	Date: 2019-09-02 ; Times: 2
+	Date: 2019-09-27 ; Times: 3
+	Date: 2019-09-04 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "gorzugi" ; Times: 1
+	Query: "Crocodylus niloticus" ; Times: 1
+	Query: "Lampropeltis (calligaster OR rhombomaculata) hastissue:1" ; Times: 1
+	Query: "Pantherophis AND (guttatus OR guttata OR emoryi OR slowinskii) hastissue:1" ; Times: 1
+	Query: "genus:Sonora Texas" ; Times: 1
+	Query: "Opheodrys" ; Times: 1
+	Query: "Salvadora grahamiae" ; Times: 1
+	Query: "chihuahua" ; Times: 2
+	Query: "deirochelys (texas)" ; Times: 1
+	Query: "specificepithet:inornata genus:Aspidoscelis" ; Times: 1
+	Query: "lampropeltis pyromelana" ; Times: 1
+	Query: "agkistrodon bilineatus" ; Times: 1
+	Query: "Reptilia Colorado" ; Times: 1
+	Query: "Reptilia Missouri" ; Times: 1
+	Query: "specificepithet:aeneus genus:desmognathus year &gt;= 1950 year &lt;= 1990" ; Times: 1
+	Query: "Dipsosaurus dorsalis" ; Times: 1
+	Query: "genus:Rhinocheilus" ; Times: 1
+	Query: "coleonyx variegatus" ; Times: 1
+	Query: "Texas genus:Sonora" ; Times: 1
+	Query: "Masticophis flagellum hastissue:1" ; Times: 1
+	Query: "specificepithet:iguana genus:Iguana" ; Times: 1
+	Query: "Amphibia Missouri" ; Times: 1
+	Query: "Reptilia Oklahoma" ; Times: 1
+	Query: "specificepithet:aeneus genus:desmognathus year &gt;= 1960" ; Times: 1
+	Query: "Amphibia Colorado" ; Times: 1
+	Query: "genus:Arizona" ; Times: 1
+	Query: "leptophis mexicanus" ; Times: 2
+	Query: "deirochelys" ; Times: 1
+	Query: "Reptilia Nebraska" ; Times: 1
+	Query: "genus:Trachemys" ; Times: 1
+
+
+End of report.
