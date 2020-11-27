@@ -1,0 +1,167 @@
+Report for Institution Code UTEP, Resource utep_herp_osteo
+Usage stats for December 2019, generated on 2020/11/27
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 113
+Number of records retrieved in searches: 298
+Number of different countries where searches have been originated: 7
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 24
+	Country: United States ; Times: 35
+	Country: Mexico ; Times: 10
+	Country: United Kingdom ; Times: 3
+	Country: Germany ; Times: 16
+	Country: Belgium ; Times: 2
+	Country: Thailand ; Times: 23
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-12-30 ; Times: 5
+	Date: 2019-12-24 ; Times: 31
+	Date: 2019-12-26 ; Times: 5
+	Date: 2019-12-12 ; Times: 2
+	Date: 2019-12-20 ; Times: 1
+	Date: 2019-12-23 ; Times: 2
+	Date: 2019-12-01 ; Times: 2
+	Date: 2019-12-02 ; Times: 23
+	Date: 2019-12-04 ; Times: 1
+	Date: 2019-12-19 ; Times: 1
+	Date: 2019-12-07 ; Times: 1
+	Date: 2019-12-09 ; Times: 4
+	Date: 2019-12-08 ; Times: 2
+	Date: 2019-12-10 ; Times: 2
+	Date: 2019-12-11 ; Times: 2
+	Date: 2019-12-05 ; Times: 6
+	Date: 2019-12-13 ; Times: 3
+	Date: 2019-12-03 ; Times: 16
+	Date: 2019-12-15 ; Times: 1
+	Date: 2019-12-16 ; Times: 1
+	Date: 2019-12-17 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "crotalus willardi willardi" ; Times: 1
+	Query: "Coelognathus radiatus haslength:1" ; Times: 1
+	Query: "Crotalus scutulatus hasmass:1" ; Times: 1
+	Query: "specificepithet:marcianus genus:Thamnophis" ; Times: 1
+	Query: "specificepithet:nebulifer genus:Incilius" ; Times: 2
+	Query: "genus:micrurus country:&#34;mexico&#34;" ; Times: 1
+	Query: "Psammodynastes pulverulentus haslength:1" ; Times: 1
+	Query: "specificepithet:americanus genus:Anaxyrus" ; Times: 2
+	Query: "Thamnophis cyrtopsis haslength:1" ; Times: 1
+	Query: "genus:Anotheca specificepithet:spinosa" ; Times: 1
+	Query: "Python reticulatus haslength:1" ; Times: 1
+	Query: "crotalus scutulatus mexico" ; Times: 1
+	Query: "hemidactylus mexico mexico" ; Times: 1
+	Query: "catalognumber:1129" ; Times: 1
+	Query: "Boa constrictor haslength:1" ; Times: 1
+	Query: "hyla arenicolor mexico" ; Times: 1
+	Query: "Calotes calotes haslength:1" ; Times: 1
+	Query: "genus:Ichthyophis" ; Times: 1
+	Query: "Chrysopelea ornata haslength:1" ; Times: 1
+	Query: "Python sebae haslength:1" ; Times: 1
+	Query: "crotalus lepidus" ; Times: 2
+	Query: "genus:Rhinocheilus stateprovince:&#34;texas&#34;" ; Times: 2
+	Query: "lampropeltis pyromelana" ; Times: 4
+	Query: "Smilisca baudini haslength:1" ; Times: 1
+	Query: "Leptophis mexicanus haslength:1" ; Times: 1
+	Query: "specificepithet:punctatus genus:Anaxyrus" ; Times: 2
+	Query: "Crotalus viridis mappable:1 year&gt;=1800 year&lt;=2013 month&gt;=1 month&lt;=1 day&gt;=1 day&lt;=1" ; Times: 2
+	Query: "senticolis triaspis mexico" ; Times: 1
+	Query: "Chelydra serpentina mappable:1 year&gt;=1800 year&lt;=2013 month&gt;=1 month&lt;=1 day&gt;=1 day&lt;=1" ; Times: 2
+	Query: "Orthriophis moellendorffi" ; Times: 2
+	Query: "Naja naja haslength:1" ; Times: 1
+	Query: "Orthriophis" ; Times: 1
+	Query: "Anolis carolinensis mappable:1 year&gt;=1800 year&lt;=2013 month&gt;=1 month&lt;=1 day&gt;=1 day&lt;=1" ; Times: 4
+	Query: "Rhadinaea decorata haslength:1" ; Times: 1
+	Query: "specificepithet:microscaphus genus:Anaxyrus" ; Times: 2
+	Query: "Boa constrictor constrictor haslength:1" ; Times: 1
+	Query: "Crotalus molossus haslength:1" ; Times: 1
+	Query: "Calotes versicolor haslength:1" ; Times: 1
+	Query: "Terrapene carolina mappable:1 year&gt;=1800 year&lt;=2013 month&gt;=1 month&lt;=1 day&gt;=1 day&lt;=1" ; Times: 1
+	Query: "specificepithet:debilis genus:Anaxyrus" ; Times: 2
+	Query: "class:Reptilia stateprovince:&#34;Arkansas&#34;" ; Times: 1
+	Query: "(organ+mountains)" ; Times: 1
+	Query: "genus:Senticolis stateprovince:&#34;Zacatecas&#34;" ; Times: 1
+	Query: "vulture" ; Times: 1
+	Query: "Ambystoma tigrinum mappable:1 year&gt;=1800 year&lt;=2013 month&gt;=1 month&lt;=1 day&gt;=1 day&lt;=1" ; Times: 2
+	Query: "Drymarchon corais haslength:1" ; Times: 1
+	Query: "Lampropeltis pyromelana" ; Times: 5
+	Query: "thamnophis rufipunctatus" ; Times: 1
+	Query: "thamnophis cyrtopsis" ; Times: 2
+	Query: "Crotalus molossus hasmass:1" ; Times: 1
+	Query: "Loxocemus bicolor" ; Times: 1
+	Query: "specificepithet:woodhousii genus:Anaxyrus" ; Times: 2
+	Query: "specificepithet:alvarius genus:Incilius" ; Times: 2
+	Query: "specificepithet:emoryi genus:pantherophis stateprovince:&#34;Arkansas&#34; institutioncode:UTEP" ; Times: 1
+	Query: "specificepithet:melanostictus genus:Duttaphrynus" ; Times: 2
+	Query: "Phrynosoma solare" ; Times: 1
+	Query: "Hypnale hypnale haslength:1" ; Times: 1
+	Query: "Kinosternon sonoriense" ; Times: 2
+	Query: "Trachemys+venusta" ; Times: 1
+	Query: "Heloderma suspectum" ; Times: 3
+	Query: "specificepithet:carolinensis genus:Anolis hastissue:1" ; Times: 1
+	Query: "Crotalus molossus" ; Times: 4
+	Query: "Crotalus scutulatus haslength:1" ; Times: 1
+	Query: "Gerrhonotus infernalis" ; Times: 1
+	Query: "Coluber constrictor texas" ; Times: 1
+	Query: "specificepithet:aspera genus:Phrynoidis" ; Times: 2
+	Query: "LAMPROPELTIS PyROMELANA" ; Times: 1
+	Query: "specificepithet:speciosus genus:Anaxyrus" ; Times: 2
+	Query: "Graptemys ouachitensis" ; Times: 1
+	Query: "willardi mexico" ; Times: 1
+	Query: "specificepithet:cognatus genus:Anaxyrus" ; Times: 2
+	Query: "Thamnophis marcianus haslength:1" ; Times: 1
+	Query: "Chrysemys picta mappable:1 year&gt;=1800 year&lt;=2013 month&gt;=1 month&lt;=1 day&gt;=1 day&lt;=1" ; Times: 2
+	Query: "Python regius haslength:1" ; Times: 1
+	Query: "specificepithet:occidentalis genus:Incilius" ; Times: 2
+	Query: "Anaxyrus americanus mappable:1 year&gt;=1800 year&lt;=2013 month&gt;=1 month&lt;=1 day&gt;=1 day&lt;=1" ; Times: 2
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 22 (out of 596 download events in this period)
+Total number of records downloaded: 275
+Number of different countries: 5
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 13
+	Country: Belgium ; Times: 5
+	Country: Australia ; Times: 1
+	Country: Germany ; Times: 1
+	Country: Mexico ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-12-24 ; Times: 5
+	Date: 2019-12-28 ; Times: 1
+	Date: 2019-12-19 ; Times: 2
+	Date: 2019-12-10 ; Times: 1
+	Date: 2019-12-05 ; Times: 9
+	Date: 2019-12-04 ; Times: 1
+	Date: 2019-12-12 ; Times: 2
+	Date: 2019-12-16 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "class:Reptilia stateprovince:&#34;Pennsylvania&#34;" ; Times: 1
+	Query: "Crotalus helleri" ; Times: 1
+	Query: "Head Tail hasmass:1 haslength:1" ; Times: 1
+	Query: "specificepithet:carolinensis genus:Anolis hastissue:1" ; Times: 1
+	Query: "specificepithet:marcianus genus:Thamnophis" ; Times: 1
+	Query: "class:Reptilia stateprovince:&#34;Louisiana&#34;" ; Times: 1
+	Query: "specificepithet:cornutum genus:Phrynosoma" ; Times: 1
+	Query: "genus:micrurus country:&#34;mexico&#34;" ; Times: 1
+	Query: "genus:Rhinocheilus" ; Times: 1
+	Query: "specificepithet:debilis class:Amphibia" ; Times: 1
+	Query: "class:Reptilia stateprovince:&#34;Arkansas&#34;" ; Times: 1
+	Query: "Gerrhonotus infernalis" ; Times: 1
+	Query: "crotalus cerastes" ; Times: 2
+	Query: "class:Amphibia stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "specificepithet:eximia genus:Hyla country:&#34;México&#34;" ; Times: 1
+	Query: "Heloderma horridum" ; Times: 1
+	Query: "Heloderma suspectum" ; Times: 1
+	Query: "class:Reptilia stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "class:amphibia stateprovince:&#34;Arkansas&#34;" ; Times: 1
+	Query: "Elgaria kingii" ; Times: 1
+	Query: "Elgaria coerulea" ; Times: 1
+
+
+End of report.
