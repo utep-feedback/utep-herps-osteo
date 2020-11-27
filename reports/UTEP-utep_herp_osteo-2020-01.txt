@@ -1,0 +1,173 @@
+Report for Institution Code UTEP, Resource utep_herp_osteo
+Usage stats for January 2020, generated on 2020/11/27
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 299
+Number of records retrieved in searches: 523
+Number of different countries where searches have been originated: 6
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 2
+	Country: United States ; Times: 262
+	Country: Netherlands ; Times: 1
+	Country: Mexico ; Times: 28
+	Country: United Kingdom ; Times: 5
+	Country: Germany ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-01-22 ; Times: 15
+	Date: 2020-01-03 ; Times: 1
+	Date: 2020-01-28 ; Times: 9
+	Date: 2020-01-06 ; Times: 2
+	Date: 2020-01-04 ; Times: 1
+	Date: 2020-01-21 ; Times: 13
+	Date: 2020-01-20 ; Times: 1
+	Date: 2020-01-09 ; Times: 21
+	Date: 2020-01-08 ; Times: 3
+	Date: 2020-01-25 ; Times: 2
+	Date: 2020-01-24 ; Times: 4
+	Date: 2020-01-27 ; Times: 10
+	Date: 2020-01-26 ; Times: 2
+	Date: 2020-01-29 ; Times: 3
+	Date: 2020-01-18 ; Times: 124
+	Date: 2020-01-14 ; Times: 1
+	Date: 2020-01-15 ; Times: 1
+	Date: 2020-01-16 ; Times: 4
+	Date: 2020-01-17 ; Times: 28
+	Date: 2020-01-10 ; Times: 2
+	Date: 2020-01-12 ; Times: 1
+	Date: 2020-01-13 ; Times: 1
+	Date: 2020-01-31 ; Times: 2
+	Date: 2020-01-23 ; Times: 48
+
+List of queries that retrieved data from the resource: 
+	Query: "specificepithet:spinosa genus:Anotheca" ; Times: 1
+	Query: "specificepithet:sylvaticus genus:lithobates stateprovince:&#34;maryland&#34;" ; Times: 1
+	Query: "snakes" ; Times: 2
+	Query: "genus:Phrynosoma hassex:1 hasmass:1 haslength:1" ; Times: 1
+	Query: "waltl Pleurodeles" ; Times: 1
+	Query: "vntype:specimen genus:thamnophis hassex:1 haslength:1" ; Times: 2
+	Query: "specificepithet:basiliscus genus:Crotalus" ; Times: 1
+	Query: "specificepithet:pulchra genus:Kaloula" ; Times: 1
+	Query: "Lampropeltis pyromelana" ; Times: 152
+	Query: "&#34;lichanura trivirgata&#34; country:united states" ; Times: 1
+	Query: "anaxyrus punctatus mexico" ; Times: 1
+	Query: "Malaclemys terrapin texas" ; Times: 1
+	Query: "Terrapene ornata country:&#34;Mexico&#34;" ; Times: 1
+	Query: "specificepithet:constrictor genus:Boa stateprovince:&#34;Sonora&#34; country:&#34;Mexico&#34;" ; Times: 3
+	Query: "specificepithet:holbrookii genus:Scaphiopus" ; Times: 1
+	Query: "specificepithet:arenicolor genus:Hyla" ; Times: 1
+	Query: "specificepithet:marcianus genus:Thamnophis" ; Times: 1
+	Query: "specificepithet:cornutum genus:Phrynosoma year &gt;= 1960 year &lt;= 2020" ; Times: 1
+	Query: "phrynosoma orbiculare" ; Times: 1
+	Query: "specificepithet:auratus genus:Dendrobates" ; Times: 1
+	Query: "lampropeltis pyromelana" ; Times: 29
+	Query: "specificepithet:pumilio genus:Dendrobates" ; Times: 1
+	Query: "Terrapene ornata" ; Times: 3
+	Query: "genus:lampropeltis stateprovince:&#34;Texas&#34;" ; Times: 2
+	Query: "gopherus mexico" ; Times: 2
+	Query: "specificepithet:agassizi genus:Gopherus" ; Times: 1
+	Query: "specificepithet:eximia genus:Hyla" ; Times: 1
+	Query: "picta Chrysemys" ; Times: 2
+	Query: "Terrapene nelsoni" ; Times: 10
+	Query: "family:Viperidae hassex:1 hasmass:1 haslength:1" ; Times: 1
+	Query: "genus:Micrurus country:&#34;México&#34;" ; Times: 3
+	Query: "gopherus sonora" ; Times: 2
+	Query: "class:Reptilia stateprovince:&#34;Arkansas&#34;" ; Times: 1
+	Query: "phyllobates lugubris" ; Times: 1
+	Query: "phrynosoma cornutum" ; Times: 1
+	Query: "specificepithet:woodhousii genus:Anaxyrus stateprovince:&#34;Texas&#34;" ; Times: 4
+	Query: "crotalus tigris msb" ; Times: 1
+	Query: "genus:heterodon stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "specificepithet:carolinensis genus:anolis sex:female" ; Times: 1
+	Query: "genus:sistrurus stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "specificepithet:staufferi genus:Scinax" ; Times: 1
+	Query: "Agalychnis dacnicolor" ; Times: 11
+	Query: "locality:Bautista county:&#34;Riverside&#34;" ; Times: 1
+	Query: "specificepithet:baudinii genus:Smilisca" ; Times: 1
+	Query: "drymobius texas" ; Times: 3
+	Query: "specificepithet:femoralis genus:Hyla" ; Times: 1
+	Query: "specificepithet:carolinensis genus:Anolis hastissue:1" ; Times: 1
+	Query: "specificepithet:triseriata genus:Pseudacris" ; Times: 1
+	Query: "specificepithet:carolinensis genus:anolis sex:male" ; Times: 1
+	Query: "Terrapene ornata mexico" ; Times: 4
+	Query: "specificepithet:olivacea genus:Gastrophryne" ; Times: 1
+	Query: "specificepithet:ornatus genus:crotalus stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "temminckii AND Texas (macroclemys OR macrochelys) AND (NOT Chelydra )" ; Times: 1
+	Query: "genus:Thamnophis hassex:1 haslength:1" ; Times: 1
+	Query: "specificepithet:clarkii genus:Pseudacris" ; Times: 1
+	Query: "Sceloporus cowlesi" ; Times: 1
+	Query: "salamandra Salamandra" ; Times: 2
+	Query: "gopherus country:&#34;Mexico&#34;" ; Times: 2
+	Query: "county:&#34;Sherman&#34; stateprovince:&#34;Texas&#34;" ; Times: 2
+	Query: "Incilius nebulifer" ; Times: 1
+	Query: "specificepithet:carolinensis genus:anolis haslength:1" ; Times: 1
+	Query: "agalychnis dacnicolor" ; Times: 8
+	Query: "Plestiodon copei" ; Times: 2
+	Query: "specificepithet:lugubris genus:Phyllobates" ; Times: 1
+	Query: "thamnophis cyrtopsis" ; Times: 6
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 34 (out of 1584 download events in this period)
+Total number of records downloaded: 178
+Number of different countries: 4
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 23
+	Country: Brazil ; Times: 1
+	Country: China ; Times: 2
+	Country: Mexico ; Times: 8
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-01-29 ; Times: 1
+	Date: 2020-01-28 ; Times: 7
+	Date: 2020-01-08 ; Times: 1
+	Date: 2020-01-07 ; Times: 3
+	Date: 2020-01-19 ; Times: 1
+	Date: 2020-01-04 ; Times: 1
+	Date: 2020-01-21 ; Times: 1
+	Date: 2020-01-15 ; Times: 1
+	Date: 2020-01-23 ; Times: 1
+	Date: 2020-01-22 ; Times: 1
+	Date: 2020-01-25 ; Times: 3
+	Date: 2020-01-24 ; Times: 7
+	Date: 2020-01-27 ; Times: 3
+	Date: 2020-01-31 ; Times: 2
+	Date: 2020-01-06 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "specificepithet:marcianus genus:Thamnophis" ; Times: 1
+	Query: "genus:Phrynosoma hassex:1 hasmass:1 haslength:1" ; Times: 1
+	Query: "genus:Scaphiopus" ; Times: 1
+	Query: "Petrosaurus mearnsi" ; Times: 1
+	Query: "genus:Micrurus country:&#34;México&#34;" ; Times: 2
+	Query: "Drymobius margaritiferus" ; Times: 1
+	Query: "specificepithet:tigrinum genus:Ambystoma" ; Times: 1
+	Query: "specificepithet:cornutum genus:Phrynosoma year &gt;= 1960 year &lt;= 2020" ; Times: 1
+	Query: "Uma notata" ; Times: 1
+	Query: "Lygosoma bowringii" ; Times: 1
+	Query: "Iguana iguana" ; Times: 1
+	Query: "Hemidactylus frenatus" ; Times: 1
+	Query: "Coleonyx variegatus" ; Times: 1
+	Query: "Calotes versicolor" ; Times: 1
+	Query: "genus:cryptobranchus" ; Times: 1
+	Query: "Heloderma horridum" ; Times: 1
+	Query: "class:Amphibia stateprovince:&#34;Arkansas&#34;" ; Times: 1
+	Query: "stateprovince:&#34;Veracruz&#34; country:&#34;México&#34;" ; Times: 1
+	Query: "Terrapene nelsoni" ; Times: 1
+	Query: "class:Reptilia stateprovince:&#34;Arkansas&#34;" ; Times: 1
+	Query: "Sceloporus grammicus" ; Times: 4
+	Query: "gopherus country:&#34;Mexico&#34;" ; Times: 1
+	Query: "specificepithet:carolinensis genus:Anolis hastissue:1" ; Times: 1
+	Query: "class:Reptilia stateprovince:&#34;Louisiana&#34;" ; Times: 1
+	Query: "genus:Thamnophis hassex:1 haslength:1" ; Times: 1
+	Query: "deirochelys" ; Times: 1
+	Query: "Basiliscus basiliscus" ; Times: 1
+	Query: "class:Reptilia stateprovince:&#34;Jalisco&#34;" ; Times: 1
+	Query: "Plestiodon copei" ; Times: 1
+	Query: "Sceloporus cowlesi" ; Times: 1
+
+
+End of report.
