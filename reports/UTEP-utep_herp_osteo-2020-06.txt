@@ -1,0 +1,65 @@
+Report for Institution Code UTEP, Resource utep_herp_osteo
+Usage stats for June 2020, generated on 2020/11/27
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 24
+Number of records retrieved in searches: 37
+Number of different countries where searches have been originated: 5
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 18
+	Country: Unknown ; Times: 1
+	Country: Sweden ; Times: 3
+	Country: India ; Times: 1
+	Country: Switzerland ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-06-08 ; Times: 1
+	Date: 2020-06-04 ; Times: 5
+	Date: 2020-06-05 ; Times: 6
+	Date: 2020-06-02 ; Times: 4
+	Date: 2020-06-03 ; Times: 1
+	Date: 2020-06-01 ; Times: 5
+	Date: 2020-06-10 ; Times: 1
+	Date: 2020-06-17 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "genus:Cemophora county:&#34;Jasper&#34; stateprovince:&#34;South Carolina&#34;" ; Times: 1
+	Query: "trimorphodon texas" ; Times: 2
+	Query: "Carphophis Texas" ; Times: 4
+	Query: "tantilla nigriceps" ; Times: 1
+	Query: "genus:Cemophora stateprovince:&#34;South Carolina&#34;" ; Times: 1
+	Query: "genus:Crotalus county:&#34;Lancaster&#34; stateprovince:&#34;Pennsylvania&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Chrysopelea paradisi vntype:specimen" ; Times: 1
+	Query: "lampropeltis pyromelana" ; Times: 1
+	Query: "genus:Boa specificepithet:constrictor" ; Times: 1
+	Query: "hypnale hypnale" ; Times: 1
+	Query: "Thamnophis radix" ; Times: 1
+	Query: "genus:sistrurus country:&#34;Mexico&#34;" ; Times: 2
+	Query: "lampropeltis alterna" ; Times: 1
+	Query: "specificepithet:contortrix genus:Agkistrodon stateprovince:&#34;South Carolina&#34;" ; Times: 1
+	Query: "heloderma suspectum" ; Times: 1
+	Query: "specificepithet:flagellum genus:Masticophis hastissue:1" ; Times: 1
+	Query: "Lampropeltis alterna" ; Times: 1
+	Query: "genus:Crotalus stateprovince:&#34;Pennsylvania&#34; basisofrecord:PreservedSpecimen" ; Times: 2
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 3 (out of 474 download events in this period)
+Total number of records downloaded: 7
+Number of different countries: 1
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 3
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-06-02 ; Times: 1
+	Date: 2020-06-01 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "heloderma suspectum" ; Times: 1
+	Query: "Ambystoma maculatum" ; Times: 2
+
+
+End of report.
