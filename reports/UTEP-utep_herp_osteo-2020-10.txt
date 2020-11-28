@@ -1,0 +1,168 @@
+Report for Institution Code UTEP, Resource utep_herp_osteo
+Usage stats for October 2020, generated on 2020/11/28
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 151
+Number of records retrieved in searches: 434
+Number of different countries where searches have been originated: 5
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 52
+	Country: Brazil ; Times: 2
+	Country: Argentina ; Times: 1
+	Country: Mexico ; Times: 91
+	Country: Unknown ; Times: 5
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-10-19 ; Times: 3
+	Date: 2020-10-08 ; Times: 25
+	Date: 2020-10-12 ; Times: 1
+	Date: 2020-10-13 ; Times: 4
+	Date: 2020-10-10 ; Times: 7
+	Date: 2020-10-30 ; Times: 17
+	Date: 2020-10-14 ; Times: 3
+	Date: 2020-10-15 ; Times: 2
+	Date: 2020-10-09 ; Times: 16
+	Date: 2020-10-22 ; Times: 4
+	Date: 2020-10-21 ; Times: 1
+	Date: 2020-10-20 ; Times: 1
+	Date: 2020-10-27 ; Times: 2
+	Date: 2020-10-26 ; Times: 3
+	Date: 2020-10-24 ; Times: 3
+	Date: 2020-10-01 ; Times: 3
+	Date: 2020-10-03 ; Times: 10
+	Date: 2020-10-02 ; Times: 10
+	Date: 2020-10-05 ; Times: 7
+	Date: 2020-10-04 ; Times: 2
+	Date: 2020-10-07 ; Times: 11
+	Date: 2020-10-06 ; Times: 16
+
+List of queries that retrieved data from the resource: 
+	Query: "genus:Pseudacris haslength:1" ; Times: 1
+	Query: "mappable:1 scientificname:Boa constrictor" ; Times: 1
+	Query: "stateprovince:&#34;Texas&#34; (catenatus)" ; Times: 3
+	Query: "Coleonyx brevis" ; Times: 1
+	Query: "snakes" ; Times: 1
+	Query: "Hyla ebraccata" ; Times: 2
+	Query: "specificepithet:baudinii genus:smilisca stateprovince:&#34;Veracruz&#34;" ; Times: 1
+	Query: "genus:Scinax haslength:1" ; Times: 2
+	Query: "Lampropeltis pyromelana" ; Times: 1
+	Query: "Pseudemys gorzugi" ; Times: 1
+	Query: "Lampropeltis alterna" ; Times: 3
+	Query: "Lithobates berlandieri" ; Times: 8
+	Query: "stateprovince:&#34;Texas&#34; (sistrurus)" ; Times: 2
+	Query: "gopherus agassizi" ; Times: 2
+	Query: "genus:Dendrobates class:Amphibia haslength:1" ; Times: 1
+	Query: "mappable:1 scientificname:Geochelone carbonaria" ; Times: 2
+	Query: "genus:Ichthyophis class:Amphibia haslength:1" ; Times: 1
+	Query: "genus:Phyllorhynchus stateprovince:&#34;Arizona&#34;" ; Times: 1
+	Query: "Incilius nebulifer" ; Times: 2
+	Query: "(12009)" ; Times: 1
+	Query: "genus:Gastrophryne lengthtype:snout-vent length haslength:1" ; Times: 1
+	Query: "Crotalus polystictus" ; Times: 1
+	Query: "Gerrhonotus" ; Times: 1
+	Query: "class:Amphibia county:&#34;nueces&#34; stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "Heloderma suspectum" ; Times: 1
+	Query: "class:Reptilia county:&#34;Cameron&#34; stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "Nerodia erythrogaster México" ; Times: 1
+	Query: "UTEP 6336" ; Times: 1
+	Query: "genus:Incilius stateprovince:&#34;Texas&#34;" ; Times: 2
+	Query: "specificepithet:ornatus genus:Crotalus stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "Trachemys ornata" ; Times: 1
+	Query: "genus:Physalaemus class:Amphibia haslength:1" ; Times: 1
+	Query: "genus:Gastrophryne haslength:1" ; Times: 1
+	Query: "genus:Physalaemus lengthtype:snout-vent length haslength:1" ; Times: 2
+	Query: "genus:Rhinella stateprovince:&#34;Veracruz&#34;" ; Times: 1
+	Query: "Crotalus willardi" ; Times: 9
+	Query: "Incilius occidentalis" ; Times: 1
+	Query: "Agalychnis dacnicolor" ; Times: 53
+	Query: "family:Chelydridae stateprovince:&#34;Louisiana&#34;" ; Times: 1
+	Query: "Heterodon simus" ; Times: 1
+	Query: "UTEP 3797" ; Times: 2
+	Query: "indio mountains" ; Times: 3
+	Query: "genus:Lithobates haslength:1" ; Times: 1
+	Query: "Hyla arenicolor" ; Times: 1
+	Query: "specificepithet:baudinii genus:Smilisca stateprovince:&#34;Veracruz&#34;" ; Times: 1
+	Query: "Crotalus tigris" ; Times: 1
+	Query: "INCILIUS NEBULIFER" ; Times: 1
+	Query: "Crotalus ornatus" ; Times: 2
+	Query: "acris crepitans maryland" ; Times: 5
+	Query: "specificepithet:limnocharis class:Amphibia haslength:1" ; Times: 1
+	Query: "Trionyx" ; Times: 1
+	Query: "agalychnis dacnicolor" ; Times: 8
+	Query: "hyla eximia" ; Times: 3
+	Query: "genus:Physalaemus haslength:1" ; Times: 1
+	Query: "Terrapene ornata stateprovince:&#34;Oklahoma&#34;" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 65 (out of 1521 download events in this period)
+Total number of records downloaded: 515
+Number of different countries: 4
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 25
+	Country: Unknown ; Times: 3
+	Country: United Kingdom ; Times: 1
+	Country: Mexico ; Times: 36
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-10-09 ; Times: 13
+	Date: 2020-10-08 ; Times: 11
+	Date: 2020-10-21 ; Times: 2
+	Date: 2020-10-20 ; Times: 1
+	Date: 2020-10-27 ; Times: 1
+	Date: 2020-10-24 ; Times: 1
+	Date: 2020-10-01 ; Times: 5
+	Date: 2020-10-13 ; Times: 2
+	Date: 2020-10-02 ; Times: 2
+	Date: 2020-10-05 ; Times: 6
+	Date: 2020-10-17 ; Times: 1
+	Date: 2020-10-07 ; Times: 3
+	Date: 2020-10-06 ; Times: 11
+	Date: 2020-10-12 ; Times: 1
+	Date: 2020-10-14 ; Times: 1
+	Date: 2020-10-15 ; Times: 3
+	Date: 2020-10-16 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "genus:Pseudacris haslength:1" ; Times: 1
+	Query: "Coleonyx brevis" ; Times: 2
+	Query: "crotalus molossus" ; Times: 1
+	Query: "sternotherus odoratus" ; Times: 1
+	Query: "genus:Scinax haslength:1" ; Times: 1
+	Query: "Agkistrodon bilineatus" ; Times: 1
+	Query: "Macrochelys temminckii" ; Times: 1
+	Query: "Opheodrys aestivus" ; Times: 1
+	Query: "gopherus flavomarginatus" ; Times: 1
+	Query: "Lampropeltis alterna" ; Times: 2
+	Query: "Chionactis occipitalis" ; Times: 1
+	Query: "Agkistrodon" ; Times: 1
+	Query: "specificepithet:occidentalis genus:sceloporus stateprovince:&#34;california&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "genus:Fejervarya lengthtype:snout-vent length haslength:1" ; Times: 1
+	Query: "order:squamata stateprovince:&#34;california&#34;" ; Times: 1
+	Query: "genus:Ichthyophis class:Amphibia haslength:1" ; Times: 1
+	Query: "class:Reptilia county:&#34;Travis&#34; stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "Crotalus basiliscus" ; Times: 3
+	Query: "Gambelia wislizenii" ; Times: 1
+	Query: "class:Amphibia county:&#34;nueces&#34; stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "class:Reptilia county:&#34;Cameron&#34; stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "hyla femoralis" ; Times: 1
+	Query: "Crotalinae" ; Times: 1
+	Query: "&#34;Duttaphrynus melanostictus&#34;" ; Times: 1
+	Query: "genus:Gastrophryne haslength:1" ; Times: 1
+	Query: "Nerodia erythrogaster" ; Times: 2
+	Query: "class:Amphibia county:&#34;Travis&#34; stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "crotalus scutulatus" ; Times: 1
+	Query: "Agalychnis dacnicolor" ; Times: 22
+	Query: "kinosternon hirtipes" ; Times: 1
+	Query: "agalychnis dacnicolor" ; Times: 3
+	Query: "genus:Lithobates haslength:1" ; Times: 1
+	Query: "Bitis arietans" ; Times: 1
+	Query: "phrynosoma orbiculare" ; Times: 1
+	Query: "Scaphiopus holbrookii" ; Times: 1
+	Query: "genus:Physalaemus haslength:1" ; Times: 2
+
+
+End of report.
